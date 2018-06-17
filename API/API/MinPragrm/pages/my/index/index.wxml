@@ -1,0 +1,12 @@
+<!--pages/my/index/index.wxml-->
+<text>pages/my/index/index.wxml</text>
+
+
+
+
+
+
+
+
+
+<navigator open-type='navigate'  url='/pages/my/demo/index'  ><button type='primary'  >跳转到演示</button></navigator>
